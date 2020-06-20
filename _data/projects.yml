@@ -1,13 +1,13 @@
 - layout: top-middle
-  name: Mordern Resume Theme
-  link: sproogen.github.io/modern-resume-theme
-  github: sproogen/modern-resume-theme
+  name: Detect Heavy Drinking Episodes using Accelerometer Data and TAC readings
+#   link: https://github.com/trisha11r/Detect_Heavy_Drinking_Episodes
+  github: trisha11r/Detect_Heavy_Drinking_Episodes
   quote: >
     A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.
   description: |
-    This is a <mark>Jekyll</mark> theme that I have recently created, in fact it is what this resume has been built with.
-    I decided I wanted to learn how to create a fully open source project and thought that this would be the perfect project to do this with.
-    It has allowed me to share something I have created in a way that will be helpful for lots of people while also learning from this myself.
+  Replication of the model presented in the research paper (hKillian, J. A., Passino, K. M., Nandi, A., Madden, D. R., & Clapp, J. Learning to Detect Heavy Drinking Episodes Using Smartphone Accelerometer Data). 
+  The model uses the easily available accelerometer data from the individual’s cell phone
+
 
 - layout: top-middle
   name: itsgoingto.be
