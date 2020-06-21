@@ -14,7 +14,7 @@
   quote: >
     Machine Learning, Python3 
   description: |
-    The model uses the easily available accelerometer data from the individual’s cell phone to detect the occurance of heavy drinking episodes. Preprocessing the time series data by feature extraction to make it usable for classification is one of the major tasks in this implementation. I performed binary classification on time series data obtained from individual's mobile device to predict if it corresponds to an intoxicated participant using TAC levels and achieved a test accuracy of 77.5% using a random forest classifier. 
+    The model built uses the easily available accelerometer data from an individual’s cell phone to detect the occurance of heavy drinking episodes. Preprocessing the time series data by feature extraction to make it usable for classification is one of the major tasks in this implementation. I performed binary classification on time series data obtained from individual's mobile device to predict if it corresponds to an intoxicated participant using TAC levels and achieved a test accuracy of 77.5% using a random forest classifier. 
 
 
 - layout: top-middle
@@ -35,23 +35,4 @@
   description: |
     Analysed different dimensionality reduction algorithms (PCA, t-SNE and UMAP) using qualitative and quantitative metrics to decide the best algorithm (here UMAP)
     
-- layout: top-middle
-  name: Decode User Input Gesture on a Virtual Keyboard
-  link: https://github.com/Trisha11r/Improvement-on-Knowledge-backed-Generation-Model-Using-Post-Modifier-Dataset
-  github: github.com/Trisha11r/Improvement-on-Knowledge-backed-Generation-Model-Using-Post-Modifier-Dataset
-  quote: >
-    Human Computer Interaction, Python3
-  description: |
-    Given a 10000 words dictionary, implemented the SHARK2(ShortHand Aided Rapid Keyboarding) algorithm to output the best decoded word from gesture
-
-- layout: top-middle
-  name: Design and implementation of a Document Flow Management System 
-  link: https://github.com/Trisha11r/Improvement-on-Knowledge-backed-Generation-Model-Using-Post-Modifier-Dataset
-  github: github.com/Trisha11r/Improvement-on-Knowledge-backed-Generation-Model-Using-Post-Modifier-Dataset
-  quote: >
-    Web Development & S/W Engg. Fundamentals, HTML/CSS/Javascript, PHP, SQL
-  description: |
-    Designed an open source web-based system aiming at privilege-based creation, access and management of digital documents facilitating the Business Process of an organization
-
-
 
