@@ -25,8 +25,8 @@ linkedin_username: trisha-kanji
 # about_title: About Me
 about_profile_image: images/jg.jpg
 about_content: |
-  Hi, my name is Trisha Kanji, I am a Computer Science Graduate Student doing my Masters from the State University of New York at Stony Brook.
-  I code mainly in, <mark>python<\mark> and <mark>java<\mark>. The things that I currently have the most experience working with are:
+  Hi, I am a Computer Science Graduate Student doing my Masters from the State University of New York at Stony Brook.
+  I code mainly in, <mark>python</mark> and <mark>java</mark>. I seek to contribute towards real-world problem solving and  delve deeper into the nuances of Software and Intelligent Systems. My interests lie in the domains of machine learning, data analysis and visualization. The things that I currently have the most experience working with are:
   <mark>D3.js</mark>,
   <mark>HTML/CSS/Javascript</mark>,
   <mark>Numpy/Scipy</mark>,
@@ -36,7 +36,7 @@ about_content: |
   <mark>Tenserflow</mark>,
   <mark>Jupyter</mark>,
   <mark>Google Colab</mark>,
-  <mark>SQL(MySQL, DB2, Oracle)<\mark>.
+  <mark>SQL(MySQL, DB2, Oracle)</mark>.
 
 # Experience Section
 experience_title: Experience
