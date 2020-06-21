@@ -3,7 +3,8 @@
   job_title: Builder/Developer @ Open Lab
   description: |
     I was a part of one of the fortunate teams that made it to Mozilla’s Fix The Internet Spring Builders Open Lab which allowed us to create a meaningful product from scratch as a part of a well structured 8-week program. It led us through the minor details involved in of the process of building and shipping a quality product. The program also gave me an opportunity to be part of numerous workshops and to work and interact with some of the best mentors in engineering and product.
-    We have developed an online platform "Help For All" hosted on Heroku for relief coordination which helps in matching donation related resources like food, clothing etc. using relevant tweets via Machine Learning. We implemented Naive Bayes Classifier for classification of tweets (Donation/Non-Donation, Donor/Requestor & Resource Type classification),  after parsing them using standard NLP techniques, which achieved an accuracy of 80%.The website lists donation/request tweets location wise, based on search. Website: https://help-for-all.herokuapp.com/
+    
+- description: We have developed an online platform "Help For All" hosted on Heroku for relief coordination which helps in matching donation related resources like food, clothing etc. using relevant tweets via Machine Learning. We implemented Naive Bayes Classifier for classification of tweets (Donation/Non-Donation, Donor/Requestor & Resource Type classification),  after parsing them using standard NLP techniques, which achieved an accuracy of 80%.The website lists donation/request tweets location wise, based on search. Website: https://help-for-all.herokuapp.com/
     
 - layout: right
   company: Accenture Solutions
