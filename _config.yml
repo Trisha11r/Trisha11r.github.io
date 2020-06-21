@@ -26,17 +26,17 @@ linkedin_username: trisha-kanji
 about_profile_image: images/jg.jpg
 about_content: |
   Hi, I am a Computer Science Graduate Student doing my Masters from the State University of New York at Stony Brook.
-  I code mainly in, <b>python</b> and <b>java</b>. I seek to contribute towards real-world problem solving and  delve deeper into the nuances of Software and Intelligent Systems. My interests lie in the domains of machine learning, data analysis and visualization. The things that I currently have the most experience working with are:
-  <mark>D3.js</mark>,
-  <mark>HTML/CSS/Javascript</mark>,
-  <mark>Numpy/Scipy</mark>,
-  <mark>Pandas</mark>,
-  <mark>Sklearn</mark>,
-  <mark>Seaborn</mark>,
-  <mark>Tenserflow</mark>,
-  <mark>Jupyter</mark>,
-  <mark>Google Colab</mark>,
-  <mark>SQL(MySQL, DB2, Oracle)</mark>.
+  I code mainly in, <b>python</b> and <b>java</b>. I seek to contribute towards real-world problem solving and  delve deeper into the nuances of Software and Intelligent Systems. My interests lie in the domains of <b>machine learning, data analysis and visualization</b>. The things that I currently have the most experience working with are:
+  <b>D3.js</b>,
+  <b>HTML/CSS/Javascript</b>,
+  <b>Numpy/Scipy</b>,
+  <b>Pandas</b>,
+  <b>Sklearn</b>,
+  <b>Seaborn</b>,
+  <b>Tenserflow</b>,
+  <b>Jupyter</b>,
+  <b>Google Colab</b>,
+  <b>SQL(MySQL, DB2, Oracle)</b>.
 
 # Experience Section
 experience_title: Experience
@@ -51,8 +51,8 @@ educaton_title: Education
 more_title: Interests and Accomplishments
 more_content: |
       My other interests include Music and Robotics. 
-      In whatever little spare time I get, I try to engage myself in good music. I am a trained vocalist in Indian Classical Music (Hindustani) and have completed my Vid (6 year Diploma Course) with Distinction in Music(Vocals), from the esteemed institution, Indira Kala Sangeet Vishwavidyalaya (I.K.S.V.Khairagarh).
-      The quintessential role that the domains of computer vision and robotics play in value addition towards life enthralls me. During my time at IIEST, Shibpur, I served as the Computer Vision Sub-Head (2015-16) of Robodarshan, the institute's robotics society. I also secuerd 1st position in a vision guided autonomous robotics event based on character recognition using image processing and equation optimization at the annual tech- fest of IIT,Kharagpur (S.H.E.L.D.O.N. Kshitij 2016).
+      In whatever little spare time I get, I try to engage myself in good music. I am a trained vocalist in <b>Indian Classical Music</b> (Hindustani) and have completed my <b>Vid (6 year Diploma Course) with Distinction in Music(Vocals)</b>, from the esteemed institution, <b>Indira Kala Sangeet Vishwavidyalaya (I.K.S.V.Khairagarh)</b>.
+      The quintessential role that the domains of computer vision and robotics play in value addition towards life enthralls me. During my time at IIEST, Shibpur, I served as the <b>Computer Vision Sub-Head</b> (2015-16) of <b>Robodarshan</b>, the institute's robotics society. I also secued <b>1st</b> position in a <b>vision guided autonomous robotics</b> event based on character recognition using image processing and equation optimization at the annual tech- fest of IIT,Kharagpur (S.H.E.L.D.O.N. Kshitij 2016).
       
 # Footer
 footer_show_references: false
