@@ -1,20 +1,20 @@
 - layout: top-middle
-  name: Causal Link Detective Game
-  link: https://github.com/trisha11r/Detect_Heavy_Drinking_Episodes
-  github: github.com/trisha11r/Detect_Heavy_Drinking_Episodes
+  name: Causal Link Detective Game (Ongoing)
+  link: https://github.com/Trisha11r/Causal_Link_Detective
+  github: github.com/Trisha11r/Causal_Link_Detective
   quote: >
     Data Visualization, Python3, D3.js
   description: |
-    Developing an interactive interface to help users refine causal models by adding data found on the web, to overcome the problem of incomplete data with limited scope. Causal analysis is a powerful machine learning tool to derive knowledge about the world from data. A problem is that many causal links offer only simplified explanations of the true relationships. The reason is incomplete data with limited scope. For e. g., does high ‘income’ really cause high ‘SAT’ scores; likely there are unknown relations inbetween. This project seeks to develop an interactive game-like interface by which users can refine causal models using data found on the web.
+    I'm currently developing an interactive interface to help users refine causal models by adding data found on the web, to overcome the problem of incomplete data with limited scope. Causal analysis is a powerful machine learning tool to derive knowledge about the world from data. But deriving exact causal relations between two variables is a difficult task due to the possible incompleteness of the data and the context. The addition of a new variable is capable of changing the way people might interpret the data. Our goal is to come up with a web application that provides the users with an interface to incorporate such user-defined additions/changes to the dataset such that the final result makes more sense in terms of real-world data.
    
 - layout: top-middle
   name: Detect Heavy Drinking Episodes using Accelerometer Data and TAC readings
   link: https://github.com/trisha11r/Detect_Heavy_Drinking_Episodes
   github: github.com/trisha11r/Detect_Heavy_Drinking_Episodes
   quote: >
-    A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.
+    Machine Learning, Python3 
   description: |
-    Replication of the model presented in the research paper (hKillian, J. A., Passino, K. M., Nandi, A., Madden, D. R., & Clapp, J. Learning to Detect Heavy Drinking Episodes Using Smartphone Accelerometer Data). The model uses the easily available accelerometer data from the individual’s cell phone
+    The model uses the easily available accelerometer data from the individual’s cell phone to detect the occurance of heavy drinking episodes. Preprocessing the time series data by feature extraction to make it usable for classification is one of the major tasks in this implementation. I performed binary classification on time series data obtained from individual's mobile device to predict if it corresponds to an intoxicated participant using TAC levels and achieved a test accuracy of 77.5% using a random forest classifier. 
 
 
 - layout: top-middle
