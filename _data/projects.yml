@@ -1,6 +1,6 @@
 - layout: top-middle
   name: Causal Link Detective Game (Ongoing)
-  link: https://github.com/Trisha11r/Causal_Link_Detective
+#   link: https://github.com/Trisha11r/Causal_Link_Detective
   github: github.com/Trisha11r/Causal_Link_Detective
   quote: >
     Data Visualization, Python3, D3.js
@@ -9,7 +9,7 @@
    
 - layout: top-middle
   name: Detect Heavy Drinking Episodes using Accelerometer Data and TAC readings
-  link: https://github.com/trisha11r/Detect_Heavy_Drinking_Episodes
+#   link: https://github.com/trisha11r/Detect_Heavy_Drinking_Episodes
   github: github.com/trisha11r/Detect_Heavy_Drinking_Episodes
   quote: >
     Machine Learning, Python3 
@@ -19,7 +19,7 @@
 
 - layout: top-middle
   name: Knowledge-backed Generation Model Using PoMo Dataset
-  link: https://github.com/Trisha11r/Improvement-on-Knowledge-backed-Generation-Model-Using-Post-Modifier-Dataset
+#   link: https://github.com/Trisha11r/Improvement-on-Knowledge-backed-Generation-Model-Using-Post-Modifier-Dataset
   github: github.com/Trisha11r/Improvement-on-Knowledge-backed-Generation-Model-Using-Post-Modifier-Dataset
   quote: >
     Natural Language Processing, Python3
@@ -28,11 +28,11 @@
     
 - layout: top-middle
   name: Qualitative and Quantitative Analysis of Dimesionality Reduction Methods
-  link: https://github.com/Trisha11r/Improvement-on-Knowledge-backed-Generation-Model-Using-Post-Modifier-Dataset
+#   link: https://github.com/Trisha11r/Improvement-on-Knowledge-backed-Generation-Model-Using-Post-Modifier-Dataset
   github: github.com/Trisha11r/Improvement-on-Knowledge-backed-Generation-Model-Using-Post-Modifier-Dataset
   quote: >
     Data Science, Python3 
   description: |
-    Analysed different dimensionality reduction algorithms (PCA, t-SNE and UMAP) using qualitative and quantitative metrics to decide the best algorithm (here UMAP)
+    Analysed different dimensionality reduction algorithms (PCA, t-SNE and UMAP) using qualitative and quantitative metrics to decide the best algorithm (here UMAP).
     
 
