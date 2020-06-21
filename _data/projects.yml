@@ -5,8 +5,7 @@
   quote: >
     A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.
   description: |
-  Replication of the model presented in the research paper (hKillian, J. A., Passino, K. M., Nandi, A., Madden, D. R., & Clapp, J. Learning to Detect Heavy Drinking Episodes Using Smartphone Accelerometer Data). 
-  The model uses the easily available accelerometer data from the individual’s cell phone
+    Replication of the model presented in the research paper (hKillian, J. A., Passino, K. M., Nandi, A., Madden, D. R., & Clapp, J. Learning to Detect Heavy Drinking Episodes Using Smartphone Accelerometer Data). The model uses the easily available accelerometer data from the individual’s cell phone
 
 
 # - layout: top-middle
