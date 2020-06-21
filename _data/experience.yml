@@ -1,12 +1,15 @@
 - company: Mozilla Spring Builders Open Lab
   dates: Apr 2020 - Jun 2020
   job_title: Builder/Developer @ Open Lab
+  link: https://help-for-all.herokuapp.com/
+  github: https://github.com/Trisha11r/MozillaOpenLab
   description: |
     I was a part of one of the fortunate teams that made it to Mozilla’s Fix The Internet Spring Builders Open Lab which allowed us to create a meaningful product from scratch as a part of a well structured 8-week program. It led us through the minor details involved in of the process of building and shipping a quality product. The program also gave me an opportunity to be part of numerous workshops and to work and interact with some of the best mentors in engineering and product.
     
 - layout: top-middle
   description: |
-    We have developed an online platform "Help For All" hosted on Heroku for relief coordination which helps in matching donation related resources like food, clothing etc. using relevant tweets via Machine Learning. We implemented Naive Bayes Classifier for classification of tweets (Donation/Non-Donation, Donor/Requestor & Resource Type classification),  after parsing them using standard NLP techniques, which achieved an accuracy of 80%.The website lists donation/request tweets location wise, based on search. Website: https://help-for-all.herokuapp.com/
+    We have developed an online platform "Help For All", hosted on Heroku for relief coordination which helps in matching donation related resources like food, clothing etc. using relevant tweets via Machine Learning. We implemented Naive Bayes Classifier for classification of tweets (Donation/Non-Donation, Donor/Requestor & Resource Type classification),  after parsing them using standard NLP techniques, which achieved an accuracy of 80%.The website lists donation/request tweets location wise, based on search. 
+    
     
 - layout: right
   company: Accenture Solutions
@@ -19,5 +22,6 @@
 #   link: www.gwsmedia.com
   dates: May 2016 - July 2016
   job_title: Summer Research Intern
+  github: https://github.com/Trisha11r/road_network_maxcover
   description: |
     I got an opportunity to work under Dr. Soumya K. Ghosh at IIT, Kharagpur as a Summer Research Intern. Here, I got a significant understanding of data analysis and the application of graph theory on large datasets. I devised an algorithm for presenting an effective and optimal route in case of disruption of one or more stoppages in an existing bus route of a city. In this case the concerned dataset was the road network of the city of Kolkata, India and it's public bus routes.
