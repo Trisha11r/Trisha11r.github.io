@@ -5,7 +5,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Trisha Kanji
-title: SUNY Stony Brook Graduate Student
+title: SUNY Stony Brook CS Grad Student
 email: trisha.kanji@stonybrook.edu
 website: https://trisha11r.github.io
 
@@ -25,22 +25,18 @@ linkedin_username: trisha-kanji
 # about_title: About Me
 about_profile_image: images/jg.jpg
 about_content: |
-  Hi, my name is Trisha Kanji, I'm a Computer Science Graduate Student doing my Master's Program from the State University of New York at Stony Brook.
-  I am currently working for the Royal Bank of Scotland as a frontend software engineer on a comercial banking platform.
-
-  I enjoy making clean and interactive UI that is quick and easy to use whilst also giving users an enjoyable experience.
-  I have worked with a range of different languages and frameworks and I am always looking for opportunities to work
-  with something new. The things that I currently have the most experience working with are:
-  <mark>ES6 Javascript</mark>,
-  <mark>React &amp; Redux</mark>,
-  <mark>Java</mark>,
-  <mark>PHP</mark>,
-  <mark>MySQL</mark>,
-  <mark>Symfony</mark>,
-  <mark>Android</mark>,
-  <mark>SASS</mark>,
-  <mark>git</mark> and
-  <mark>AWS</mark> services.
+  Hi, my name is Trisha Kanji, I am a Computer Science Graduate Student doing my Masters from the State University of New York at Stony Brook.
+  I code mainly in, <mark>python<\mark> and <mark>java<\mark>. The things that I currently have the most experience working with are:
+  <mark>D3.js</mark>,
+  <mark>HTML/CSS/Javascript</mark>,
+  <mark>Numpy/Scipy</mark>,
+  <mark>Pandas</mark>,
+  <mark>Sklearn</mark>,
+  <mark>Seaborn</mark>,
+  <mark>Tenserflow</mark>,
+  <mark>Jupyter</mark>,
+  <mark>Google Colab</mark>,
+  <mark>SQL(MySQL, DB2, Oracle)<\mark>.
 
 # Experience Section
 experience_title: Experience
