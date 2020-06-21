@@ -1,4 +1,6 @@
 - name: State University of New York at Stony Brook
+  description: |
+    Master of Science in Computer Science
   dates: 2019 - 2020
   description: |
     GPA: 3.67/4.00
@@ -6,6 +8,8 @@
     Coursework: Analysis of Algorithms, Machine Learning, Data Science Fundamentals, Data Visualization, Natural Language Processing, Human Computer Interaction, Theory of Database Systems
     
 - name: Indian Institute of Engineering Science and Technology, Shibpur
+  description: |
+    Bachelor of Engineering in Computer Science and Technology
   dates: 2013 - 2017
   description: |
     GPA: 8.12/10
