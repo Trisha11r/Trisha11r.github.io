@@ -1,6 +1,6 @@
 - layout: top-middle
   name: Detect Heavy Drinking Episodes using Accelerometer Data and TAC readings
-#   link: https://github.com/trisha11r/Detect_Heavy_Drinking_Episodes
+  link: https://github.com/trisha11r/Detect_Heavy_Drinking_Episodes
   github: github.com/trisha11r/Detect_Heavy_Drinking_Episodes
   quote: >
     A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.
