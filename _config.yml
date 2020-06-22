@@ -1,10 +1,9 @@
-    # Site
-    
+# Site
 repository: Trisha11r/Trisha11r.github.io
 
 favicon: images/favicon.ico
    
-    <div class = "change_head_color" style = "background-color:#115088;">
+#     <div class = "change_head_color" style = "background-color:#115088;">
     # Personal info
     name: Trisha Kanji
     title: SUNY Stony Brook CS Grad Student
@@ -23,7 +22,7 @@ favicon: images/favicon.ico
     # pinterest_username:
     # youtube_username:
     # googleplus_username:
-    </div>
+#     </div>
 
 # About Section
 # about_title: About Me
