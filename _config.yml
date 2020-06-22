@@ -1,26 +1,29 @@
-# Site
+    # Site
+    
 repository: Trisha11r/Trisha11r.github.io
 
 favicon: images/favicon.ico
-
-# Personal info
-name: Trisha Kanji
-title: SUNY Stony Brook CS Grad Student
-email: trisha.kanji@stonybrook.edu
-website: https://trisha11r.github.io
-resume: https://trisha11r.github.io/KanjiTrisha2020.pdf
-
-# Social links
-# twitter_username: shanuj
-github_username:  Trisha11r
-# dribbble_username:
-# facebook_username:
-# flickr_username:
-# instagram_username: shanuj9708
-linkedin_username: trisha-kanji
-# pinterest_username:
-# youtube_username:
-# googleplus_username:
+   
+    <div class = "change_head_color" style = "background-color:#115088;">
+    # Personal info
+    name: Trisha Kanji
+    title: SUNY Stony Brook CS Grad Student
+    email: trisha.kanji@stonybrook.edu
+    website: https://trisha11r.github.io
+    resume: https://trisha11r.github.io/KanjiTrisha2020.pdf
+    
+    # Social links
+    # twitter_username: shanuj
+    github_username:  Trisha11r
+    # dribbble_username:
+    # facebook_username:
+    # flickr_username:
+    # instagram_username: shanuj9708
+    linkedin_username: trisha-kanji
+    # pinterest_username:
+    # youtube_username:
+    # googleplus_username:
+    </div>
 
 # About Section
 # about_title: About Me
