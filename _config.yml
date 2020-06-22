@@ -51,7 +51,7 @@ about_content: |
       margin: 20px 0;
     }
     .bar{
-      background: #353b48;
+      background: #5900b3;
       display: block;
       height: 10px;
       border: 1px solid rgba(0,0,0,0.3);
@@ -62,7 +62,7 @@ about_content: |
     .bar span{
       height: 10px;
       float: left;
-      background: #00e600;
+      background: #ff66b5;
     }
     
     .java{
