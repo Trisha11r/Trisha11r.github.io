@@ -3,6 +3,11 @@
     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-8 header-left">
       <h1>{{ site.name | escape }}</h1>
       <h2>{{ site.title | escape }}</h2>
+      {%- if site.resume -%}
+        <p>
+          {{ site.website_title | default: "Resume" }}: {% include a.html href=site.resume %}{{ "Download as PDF" | escape }}</a>
+        </p>
+      {%- endif -%}
     </div>
     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 header-right">
       <ul class="icons no-print">
@@ -121,11 +126,7 @@
           {{ site.website_title | default: "Website" }}: {% include a.html href=site.website %}{{ site.website | escape }}</a>
         </p>
       {%- endif -%}
-      {%- if site.resume -%}
-        <p class = "header-left">
-          {{ site.website_title | default: "Resume" }}: {% include a.html href=site.resume %}{{ "Download as PDF" | escape }}</a>
-        </p>
-      {%- endif -%}
+      
     </div>
   </div>
 </div>
