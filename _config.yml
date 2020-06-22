@@ -61,7 +61,7 @@ about_content: |
     .bar span{
       height: 10px;
       float: left;
-      background: #e6e6e6;
+      background: #00e600;
     }
     
     .java{
