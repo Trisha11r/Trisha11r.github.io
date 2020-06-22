@@ -127,9 +127,9 @@
         </p>
       {%- endif -%}
       {%- if site.website -%}
-        <p>
+        <p> <mark style = "background-color: white; color: red;">
           {{ site.website_title | default: "Website" }}: {% include a.html href=site.website %}{{ site.website | escape }}</a>
-        </p>
+        </mark></p> 
       {%- endif -%}
       
     </div>
