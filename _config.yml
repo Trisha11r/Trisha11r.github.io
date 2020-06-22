@@ -45,7 +45,7 @@ about_content: |
       list-style: none;
       padding: 0;
       width: 100%;
-      color: #317f32;
+      color: #black;
     }
     .skills li{
       margin: 20px 0;
