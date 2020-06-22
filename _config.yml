@@ -136,15 +136,28 @@ about_content: |
   <div class="skills">
     <div class="column">
       <li>
-        <p>Java</p><span class="bar"><span class="java"></span></span>
-      </li>
-      <li>
         <p>Python</p><span class="bar"><span class="python"></span></span>
       </li>
+      <li>
+        <p>JavaScript/D3.js</p><span class="bar"><span class="python"></span></span>
+      </li>
+      <li>
+        <p>PL/SQL</p><span class="bar"><span class="python"></span></span>
+      </li>
+      <li>
+        <p>C++</p><span class="bar"><span class="cplus"></span></span>
+      </li>
+      
     </div>
     <div class="column">
       <li>
-        <p>C++</p><span class="bar"><span class="cplus"></span></span>
+        <p>Java</p><span class="bar"><span class="java"></span></span>
+      </li>
+      <li>
+        <p>HTML/CSS/Bootstrap</p><span class="bar"><span class="python"></span></span>
+      </li>
+      <li>
+        <p>XQuery/XPath</p><span class="bar"><span class="python"></span></span>
       </li>
       <li>
         <p>C</p><span class="bar"><span class="c"></span></span>
