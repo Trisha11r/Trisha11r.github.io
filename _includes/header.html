@@ -9,9 +9,9 @@
       <h1>{{ site.name | escape }}</h1>
       <h2>{{ site.title | escape }}</h2>
       {%- if site.resume -%}
-        <p>
+        <p>  <mark style = "background-color: white; color: red;">
           {{ site.website_title | default: "Resume" }}: {% include a.html href=site.resume %}{{ "Download as PDF" | escape }}</a>
-        </p>
+        </mark> </p>
       {%- endif -%}
     </div>
     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 header-right">
@@ -127,9 +127,9 @@
         </p>
       {%- endif -%}
       {%- if site.website -%}
-        <p> <mark style = "background-color: white; color: red;">
+        <p>
           {{ site.website_title | default: "Website" }}: {% include a.html href=site.website %}{{ site.website | escape }}</a>
-        </mark></p> 
+        </p> 
       {%- endif -%}
       
     </div>
