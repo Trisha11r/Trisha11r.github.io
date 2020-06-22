@@ -1,7 +1,7 @@
 - layout: top-middle
   name: Causal Link Detective Game (Ongoing)
 #   link: https://github.com/Trisha11r/Causal_Link_Detective
-  github: github.com/Trisha11r/Causal_Link_Detective
+  github: Trisha11r/Causal_Link_Detective
   quote: >
     Data Visualization, Python3, D3.js
   description: |
@@ -10,7 +10,7 @@
 - layout: top-middle
   name: Detect Heavy Drinking Episodes using Accelerometer Data and TAC readings
 #   link: https://github.com/trisha11r/Detect_Heavy_Drinking_Episodes
-  github: github.com/trisha11r/Detect_Heavy_Drinking_Episodes
+  github: trisha11r/Detect_Heavy_Drinking_Episodes
   quote: >
     Machine Learning, Python3 
   description: |
@@ -19,7 +19,7 @@
 - layout: top-middle
   name: Augmented-Reality-Visualizations
   link: https://www.youtube.com/watch?v=rffeF_7LJtI&t=1s
-  github: github.com/trisha11r/Augmented-Reality-Visualizations
+  github: trisha11r/Augmented-Reality-Visualizations
   quote: >
     Data Visualization, Augmented Reality, Unity Tool, C#
   description: |
@@ -28,7 +28,7 @@
 - layout: top-middle
   name: Knowledge-backed Generation Model Using PoMo Dataset
 #   link: https://github.com/Trisha11r/Improvement-on-Knowledge-backed-Generation-Model-Using-Post-Modifier-Dataset
-  github: github.com/Trisha11r/Improvement-on-Knowledge-backed-Generation-Model-Using-Post-Modifier-Dataset
+  github: Trisha11r/Improvement-on-Knowledge-backed-Generation-Model-Using-Post-Modifier-Dataset
   quote: >
     Natural Language Processing, Python3
   description: |
@@ -37,7 +37,7 @@
 - layout: top-middle
   name: Qualitative and Quantitative Analysis of Dimesionality Reduction Methods
 #   link: https://github.com/Trisha11r/Improvement-on-Knowledge-backed-Generation-Model-Using-Post-Modifier-Dataset
-  github: github.com/Trisha11r/Improvement-on-Knowledge-backed-Generation-Model-Using-Post-Modifier-Dataset
+  github: Trisha11r/Improvement-on-Knowledge-backed-Generation-Model-Using-Post-Modifier-Dataset
   quote: >
     Data Science, Python3 
   description: |
