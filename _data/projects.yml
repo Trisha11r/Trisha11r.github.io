@@ -71,5 +71,14 @@
     Web Application, HTML/CSS/Javascript, PHP 
   description: |
     Designed a web–based system to manage flow of documents between user-groups with value addition in each step using open-source technologies
+
+- layout: top-middle
+  name: Outer Isothetic Cover of a 2-D Digital Object by Combinatorial Approach
+
+#   link: https://github.com/Trisha11r/Improvement-on-Knowledge-backed-Generation-Model-Using-Post-Modifier-Dataset
+  github: Trisha11r/Outer_Isothetic_Cover
+  quote: >
+    Web Application, HTML/CSS/Javascript, PHP 
+  description: |
+    Given a 2-D digital object, i.e. A binary Portable Gray Map (.pgm) image, obtained a ‘Tight Outer Isothetic Cover’ of the object within a grid of cell size g given by the user.
    
-    
