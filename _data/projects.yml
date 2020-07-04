@@ -14,7 +14,7 @@
   quote: >
     Machine Learning, Python3 
   description: |
-    The model built uses the easily available accelerometer data from an individual’s cell phone to detect the occurance of heavy drinking episodes. Preprocessing the time series data by feature extraction to make it usable for classification is one of the major tasks in this implementation. I performed binary classification on time series data obtained from individual's mobile device to predict if it corresponds to an intoxicated participant using TAC levels and achieved a test accuracy of 77.5% using a random forest classifier. 
+    Using the easily available accelerometer data from an individual’s cell phone, detected the occurance of heavy drinking episodes. Preprocessed the time series accelerometer data by feature extraction to make it usable for classification. Performed binary classification on this data to predict if it corresponds to an intoxicated participant using TAC levels and achieved a test accuracy of 77.5% using a random forest classifier. 
 
 - layout: top-middle
   name: Knowledge-backed Generation Model Using PoMo Dataset
@@ -51,10 +51,7 @@
     Human Computer Interaction, Python3 
   description: |
     Given a dictionary containing 10000 words, implemented the SHARK2 (ShortHand Aided Rapid Keyboarding) algorithm to decode a user input gesture and output the best decoded word.
-     Given a 2-D digital object, i.e. A binary Portable Gray Map (.pgm) image, obtained a ‘Tight Outer Isothetic Cover’ of the object within a grid of cell size g given by the user.
-    Given a 2-D digital object, i.e. A binary Portable Gray Map (.pgm) image, obtained a ‘Tight Outer Isothetic Cover’ of the object within a grid of cell size g given by the user.
-    Given a 2-D digital object, i.e. A binary Portable Gray Map (.pgm) image, obtained a ‘Tight Outer Isothetic Cover’ of the object within a grid of cell size g given by the user.
-
+   
 - layout: top-middle
   name:  Logo Spotting using Bag of Visual Words Model
 
