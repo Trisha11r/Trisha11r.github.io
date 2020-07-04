@@ -23,7 +23,7 @@
   quote: >
     Data Visualization, Augmented Reality, Unity Tool, C#
   description: |
-    Use of Unity to visualize data in the Augmented Reality space of the user.
+    Visualized the most recently inspected and graded restaurants located in the five boroughs of New York City to provide the user with an interactive interface giving an insight into the hygienic conditions of the eateries of NYC. Used Unity and Vuforia to visualize data in the Augmented Reality space of the user. Vuforia uses computer vision to detect a plane in the physical space of the user, and objects can be placed in this detected plane. As a result, the orientation and positions of the objects change with the user's physical movement, as if they are actual physical objects placed near the user. Visualisations include a 3D Map of NYC depicted with restaurants and plots(line and bar plots along with brushing and linking feature).
 
 - layout: top-middle
   name: Knowledge-backed Generation Model Using PoMo Dataset
