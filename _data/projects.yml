@@ -42,5 +42,34 @@
     Data Science, Python3 
   description: |
     Analysed different dimensionality reduction algorithms (PCA, t-SNE and UMAP) using qualitative and quantitative metrics to decide the best algorithm (here UMAP).
-    
 
+- layout: top-middle
+  name: Decode User Input Gesture on a Virtual Keyboard
+#   link: https://github.com/Trisha11r/Improvement-on-Knowledge-backed-Generation-Model-Using-Post-Modifier-Dataset
+  github: Trisha11r/Decode_Gesture_SHARK2_algo
+  quote: >
+    Human Computer Interaction, Python3 
+  description: |
+    Given a dictionary containing 10000 words, implemented the SHARK2 (ShortHand Aided Rapid Keyboarding) algorithm to decode a user input gesture and output the best decoded word.
+
+- layout: top-middle
+  name:  Logo Spotting using Bag of Visual Words Model
+
+#   link: https://github.com/Trisha11r/Improvement-on-Knowledge-backed-Generation-Model-Using-Post-Modifier-Dataset
+  github: Trisha11r/Bag_of_Visual_Words
+  quote: >
+    Image Procesing, Python3 
+  description: |
+    Implemented the basic ‘bag of visual words’ model using two different approaches for feature descriptor extraction(SIFT Algorithm and Shape Context Matching) to identify and match company logos on scanned documents.
+    
+- layout: top-middle
+  name: Document Flow Management System
+
+#   link: https://github.com/Trisha11r/Improvement-on-Knowledge-backed-Generation-Model-Using-Post-Modifier-Dataset
+  github: Trisha11r/Document-Flow-Management-System
+  quote: >
+    Web Application, HTML/CSS/Javascript, PHP 
+  description: |
+    Designed a web–based system to manage flow of documents between user-groups with value addition in each step using open-source technologies
+   
+    
