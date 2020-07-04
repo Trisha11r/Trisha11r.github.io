@@ -1,11 +1,12 @@
 - layout: top-middle
   name: Causal Link Detective Game (Ongoing)
-#   link: https://github.com/Trisha11r/Causal_Link_Detective
+  link: https://www.youtube.com/watch?v=OTKy315WaOA
   github: Trisha11r/Causal_Link_Detective
   quote: >
     Data Visualization, Python3, D3.js
   description: |
-    I'm currently developing an interactive interface to help users refine causal models by adding data found on the web, to overcome the problem of incomplete data with limited scope. Causal analysis is a powerful machine learning tool to derive knowledge about the world from data. But deriving exact causal relations between two variables is a difficult task due to the possible incompleteness of the data and the context. The addition of a new variable is capable of changing the way people might interpret the data. Our goal is to come up with a web application that provides the users with an interface to incorporate such user-defined additions/changes to the dataset such that the final result makes more sense in terms of real-world data.
+    I'm currently developing an interactive interface to help users refine causal models by adding data found on the web, to overcome the problem of incomplete data with limited scope. Causal analysis is a powerful machine learning tool to derive knowledge about the world from data. But deriving exact causal relations between two variables is a difficult task due to the possible incompleteness of the data and the context. The addition of a new variable is capable of changing the way people might interpret the data. Our goal is to come up with a web application that provides the users with an interface to incorporate such user-defined additions/changes to the dataset such that the final result makes more sense in terms of real-world data. YouTube link for the demo of the D3.js visualization of the causal graph (as force directed graph layout), is given in the description.
+    
    
 - layout: top-middle
   name: Detect Heavy Drinking Episodes using Accelerometer Data and TAC readings
