@@ -17,7 +17,7 @@
     The model built uses the easily available accelerometer data from an individual’s cell phone to detect the occurance of heavy drinking episodes. Preprocessing the time series data by feature extraction to make it usable for classification is one of the major tasks in this implementation. I performed binary classification on time series data obtained from individual's mobile device to predict if it corresponds to an intoxicated participant using TAC levels and achieved a test accuracy of 77.5% using a random forest classifier. 
     
 - layout: top-middle
-  name: Augmented-Reality-Visualizations
+  name: Augmented Reality Visualizations
   link: https://www.youtube.com/watch?v=rffeF_7LJtI&t=1s
   github: trisha11r/Augmented-Reality-Visualizations
   quote: >
