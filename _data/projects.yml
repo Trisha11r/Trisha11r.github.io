@@ -32,7 +32,7 @@
   quote: >
     Data Science, Python3 
   description: |
-    Analysed different dimensionality reduction algorithms (PCA, t-SNE and UMAP) using qualitative and quantitative metrics to decide the best algorithm (here UMAP).
+    Analysed different dimensionality reduction algorithms (PCA, t-SNE and UMAP) using qualitative and quantitative metrics to decide upon the best algorithm (here UMAP). Tested these dimensionality reduction methods on 3 datasets - MNIST digit dataset, Fashion-MNIST dataset and the Breast Cancer Wisconsin Diagnostic dataset. In terms of quantitative metrics, used the time complexity, normalized mutual score and the stability of sub-sample embeddings to assess the performance of the algorithms. For qualitative analysis, assessed performance in terms of varying dataset size and varying number of features in the dataset (i.e. performance on high dimension data).
 
 - layout: top-middle
   name: Augmented Reality Visualizations
