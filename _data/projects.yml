@@ -51,6 +51,9 @@
     Human Computer Interaction, Python3 
   description: |
     Given a dictionary containing 10000 words, implemented the SHARK2 (ShortHand Aided Rapid Keyboarding) algorithm to decode a user input gesture and output the best decoded word.
+     Given a 2-D digital object, i.e. A binary Portable Gray Map (.pgm) image, obtained a ‘Tight Outer Isothetic Cover’ of the object within a grid of cell size g given by the user.
+    Given a 2-D digital object, i.e. A binary Portable Gray Map (.pgm) image, obtained a ‘Tight Outer Isothetic Cover’ of the object within a grid of cell size g given by the user.
+    Given a 2-D digital object, i.e. A binary Portable Gray Map (.pgm) image, obtained a ‘Tight Outer Isothetic Cover’ of the object within a grid of cell size g given by the user.
 
 - layout: top-middle
   name:  Logo Spotting using Bag of Visual Words Model
@@ -82,7 +85,4 @@
   description: |
     Given a 2-D digital object, i.e. A binary Portable Gray Map (.pgm) image, obtained a ‘Tight Outer Isothetic Cover’ of the object within a grid of cell size g given by the user.
     
-    Given a 2-D digital object, i.e. A binary Portable Gray Map (.pgm) image, obtained a ‘Tight Outer Isothetic Cover’ of the object within a grid of cell size g given by the user.
-    Given a 2-D digital object, i.e. A binary Portable Gray Map (.pgm) image, obtained a ‘Tight Outer Isothetic Cover’ of the object within a grid of cell size g given by the user.
-    Given a 2-D digital object, i.e. A binary Portable Gray Map (.pgm) image, obtained a ‘Tight Outer Isothetic Cover’ of the object within a grid of cell size g given by the user.
    
