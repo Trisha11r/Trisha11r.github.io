@@ -15,15 +15,6 @@
     Machine Learning, Python3 
   description: |
     The model built uses the easily available accelerometer data from an individual’s cell phone to detect the occurance of heavy drinking episodes. Preprocessing the time series data by feature extraction to make it usable for classification is one of the major tasks in this implementation. I performed binary classification on time series data obtained from individual's mobile device to predict if it corresponds to an intoxicated participant using TAC levels and achieved a test accuracy of 77.5% using a random forest classifier. 
-    
-- layout: top-middle
-  name: Augmented Reality Visualizations
-  link: https://www.youtube.com/watch?v=rffeF_7LJtI&t=1s
-  github: trisha11r/Augmented-Reality-Visualizations
-  quote: >
-    Data Visualization, Augmented Reality, Unity Tool, C#
-  description: |
-    Visualized the most recently inspected and graded restaurants located in the five boroughs of New York City to provide the user with an interactive interface giving an insight into the hygienic conditions of the eateries of NYC. Used Unity and Vuforia to visualize data in the Augmented Reality space of the user. Vuforia uses computer vision to detect a plane in the physical space of the user, and objects can be placed in this detected plane. As a result, the orientation and positions of the objects change with the user's physical movement, as if they are actual physical objects placed near the user. Visualisations include a 3D Map of NYC depicted with restaurants and plots(line and bar plots along with brushing and linking feature).
 
 - layout: top-middle
   name: Knowledge-backed Generation Model Using PoMo Dataset
@@ -42,6 +33,15 @@
     Data Science, Python3 
   description: |
     Analysed different dimensionality reduction algorithms (PCA, t-SNE and UMAP) using qualitative and quantitative metrics to decide the best algorithm (here UMAP).
+
+- layout: top-middle
+  name: Augmented Reality Visualizations
+  link: https://www.youtube.com/watch?v=rffeF_7LJtI&t=1s
+  github: trisha11r/Augmented-Reality-Visualizations
+  quote: >
+    Data Visualization, Augmented Reality, Unity Tool, C#
+  description: |
+    Visualized the most recently inspected and graded restaurants located in the five boroughs of New York City to provide the user with an interactive interface giving an insight into the hygienic conditions of the eateries of NYC. Used Unity and Vuforia to visualize data in the Augmented Reality space of the user. Vuforia uses computer vision to detect a plane in the physical space of the user, and objects can be placed in this detected plane. As a result, the orientation and positions of the objects change with the user's physical movement, as if they are actual physical objects placed near the user. Visualisations include a 3D Map of NYC depicted with restaurants and plots(line and bar plots along with brushing and linking feature).
 
 - layout: top-middle
   name: Decode User Input Gesture on a Virtual Keyboard
