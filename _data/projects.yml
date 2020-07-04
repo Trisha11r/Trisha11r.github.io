@@ -3,7 +3,7 @@
   link: https://www.youtube.com/watch?v=OTKy315WaOA
   github: Trisha11r/Causal_Link_Detective
   quote: >
-    Data Visualization, Python3, D3.js
+    Visual Data Analytics, Python3, Javascript, D3.js
   description: |
     I'm currently developing an interactive interface to help users refine causal models by adding data found on the web, to overcome the problem of incomplete data with limited scope. Causal analysis is a powerful machine learning tool to derive knowledge about the world from data. But deriving exact causal relations between two variables is a difficult task due to the possible incompleteness of the data and the context. The addition of a new variable is capable of changing the way people might interpret the data. Our goal is to come up with a web application that provides the users with an interface to incorporate such user-defined additions/changes to the dataset such that the final result makes more sense in terms of real-world data. YouTube link for the demo of the D3.js visualization of the causal graph (as force directed graph layout), is given in the description.
     
@@ -13,7 +13,7 @@
 #   link: https://github.com/trisha11r/Detect_Heavy_Drinking_Episodes
   github: trisha11r/Detect_Heavy_Drinking_Episodes
   quote: >
-    Machine Learning, Python3 
+    Machine Learning, Python3, Scikit-learn
   description: |
     Using the easily available accelerometer data from an individual’s cell phone, detected the occurance of heavy drinking episodes. Preprocessed the time series accelerometer data by feature extraction to make it usable for classification. Performed binary classification on this data to predict if it corresponds to an intoxicated participant using TAC levels and achieved a test accuracy of 77.5% using a random forest classifier. 
 
@@ -22,16 +22,16 @@
 #   link: https://github.com/Trisha11r/Improvement-on-Knowledge-backed-Generation-Model-Using-Post-Modifier-Dataset
   github: Trisha11r/Improvement-on-Knowledge-backed-Generation-Model-Using-Post-Modifier-Dataset
   quote: >
-    Natural Language Processing, Python3
+    Natural Language Processing, Recurrent Neural Networks, Python3, Scikit-learn, numPy
   description: |
     Implemented Post Modifier(PoMo) generation using BiLSTM model with attention, which generates a post modifier phrase describing the target entity that contextually fits in the input sentence.
     
 - layout: top-middle
   name: Qualitative and Quantitative Analysis of Dimesionality Reduction Methods
 #   link: https://github.com/Trisha11r/Improvement-on-Knowledge-backed-Generation-Model-Using-Post-Modifier-Dataset
-  github: Trisha11r/Improvement-on-Knowledge-backed-Generation-Model-Using-Post-Modifier-Dataset
+  github: Trisha11r/dim_reduction_study
   quote: >
-    Data Science, Python3 
+    Data Science, Dimension Reduction, Python3, Google Colab, Scikit-learn, Seaborn
   description: |
     Analysed different dimensionality reduction algorithms (PCA, t-SNE and UMAP) using qualitative and quantitative metrics to decide upon the best algorithm (here UMAP). Tested these dimensionality reduction methods on 3 datasets - MNIST digit dataset, Fashion-MNIST dataset and the Breast Cancer Wisconsin Diagnostic dataset. In terms of quantitative metrics, used the time complexity, normalized mutual score and the stability of sub-sample embeddings to assess the performance of the algorithms. For qualitative analysis, assessed performance in terms of varying dataset size and varying number of features in the dataset (i.e. performance on high dimension data).
 
@@ -40,7 +40,7 @@
   link: https://www.youtube.com/watch?v=rffeF_7LJtI&t=1s
   github: trisha11r/Augmented-Reality-Visualizations
   quote: >
-    Data Visualization, Augmented Reality, Unity Tool, C#
+    Visual Data Analytics, Augmented Reality, Virtual Reality, Unity Tool, C#, Vuforia
   description: |
     Visualized the most recently inspected and graded restaurants located in the five boroughs of New York City to provide the user with an interactive interface giving an insight into the hygienic conditions of the eateries of NYC. Used Unity and Vuforia to visualize data in the Augmented Reality space of the user. Vuforia uses computer vision to detect a plane in the physical space of the user, and objects can be placed in this detected plane. As a result, the orientation and positions of the objects change with the user's physical movement, as if they are actual physical objects placed near the user. Visualisations include a 3D Map of NYC depicted with restaurants and plots(line and bar plots along with brushing and linking feature).
 
@@ -59,7 +59,7 @@
 #   link: https://github.com/Trisha11r/Improvement-on-Knowledge-backed-Generation-Model-Using-Post-Modifier-Dataset
   github: Trisha11r/Bag_of_Visual_Words
   quote: >
-    Image Procesing, Python3 
+    Image Procesing, MATLAB 
   description: |
     Implemented the basic ‘bag of visual words’ model using two different approaches for feature descriptor extraction(SIFT Algorithm and Shape Context Matching) to identify and match company logos on scanned documents.
     
@@ -79,7 +79,7 @@
 #   link: https://github.com/Trisha11r/Improvement-on-Knowledge-backed-Generation-Model-Using-Post-Modifier-Dataset
   github: Trisha11r/Outer_Isothetic_Cover
   quote: >
-    Web Application, HTML/CSS/Javascript, PHP 
+    Computational Geometry, C
   description: |
     Given a 2-D digital object, i.e. A binary Portable Gray Map (.pgm) image, obtained a ‘Tight Outer Isothetic Cover’ of the object within a grid of cell size g given by the user.
     
